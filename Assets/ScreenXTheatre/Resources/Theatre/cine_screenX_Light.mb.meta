@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: e80d7c5265bc64d9dad24af7a16b9307
+timeCreated: 1449551183
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Basic_stairs
+    100002: Chair_B_M
+    100004: Chair_F
+    100006: Chair_H
+    100008: //RootNode
+    100010: eye
+    100012: IN_Wall
+    100014: NO_02_screen
+    100016: Out_Wall
+    100018: polySurface3260
+    100020: polySurface3264
+    100022: polySurface3265
+    100024: polySurface3266
+    100026: polySurface3267
+    100028: polySurface3268
+    100030: polySurface3269
+    100032: polySurface3270
+    100034: polySurface3285
+    100036: polySurface3286
+    100038: polySurface3287
+    100040: polySurface3288
+    100042: polySurface3289
+    100044: polySurface3290
+    100046: polySurface3291
+    100048: polySurface3292
+    100050: polySurface3293
+    100052: polySurface3294
+    100054: polySurface3295
+    100056: polySurface3296
+    100058: polySurface3297
+    100060: roof_asset
+    100062: Screen_All
+    100064: screenX_all
+    100066: stairs
+    100068: theater_stairs2
+    100070: theater_stairs3
+    100072: theater_stairs4
+    100074: theater_stairs5
+    100076: theater_stairs7
+    100078: theater_stairs8
+    100080: theater_stairs9
+    100082: transform141
+    100084: transform142
+    100086: transform143
+    100088: transform145
+    100090: transform146
+    100092: transform147
+    100094: transform148
+    100096: transform149
+    400000: Basic_stairs
+    400002: Chair_B_M
+    400004: Chair_F
+    400006: Chair_H
+    400008: //RootNode
+    400010: eye
+    400012: IN_Wall
+    400014: NO_02_screen
+    400016: Out_Wall
+    400018: polySurface3260
+    400020: polySurface3264
+    400022: polySurface3265
+    400024: polySurface3266
+    400026: polySurface3267
+    400028: polySurface3268
+    400030: polySurface3269
+    400032: polySurface3270
+    400034: polySurface3285
+    400036: polySurface3286
+    400038: polySurface3287
+    400040: polySurface3288
+    400042: polySurface3289
+    400044: polySurface3290
+    400046: polySurface3291
+    400048: polySurface3292
+    400050: polySurface3293
+    400052: polySurface3294
+    400054: polySurface3295
+    400056: polySurface3296
+    400058: polySurface3297
+    400060: roof_asset
+    400062: Screen_All
+    400064: screenX_all
+    400066: stairs
+    400068: theater_stairs2
+    400070: theater_stairs3
+    400072: theater_stairs4
+    400074: theater_stairs5
+    400076: theater_stairs7
+    400078: theater_stairs8
+    400080: theater_stairs9
+    400082: transform141
+    400084: transform142
+    400086: transform143
+    400088: transform145
+    400090: transform146
+    400092: transform147
+    400094: transform148
+    400096: transform149
+    2300000: Basic_stairs
+    2300002: Chair_B_M
+    2300004: Chair_F
+    2300006: Chair_H
+    2300008: eye
+    2300010: IN_Wall
+    2300012: NO_02_screen
+    2300014: Out_Wall
+    2300016: roof_asset
+    2300018: Screen_All
+    2300020: stairs
+    3300000: Basic_stairs
+    3300002: Chair_B_M
+    3300004: Chair_F
+    3300006: Chair_H
+    3300008: eye
+    3300010: IN_Wall
+    3300012: NO_02_screen
+    3300014: Out_Wall
+    3300016: roof_asset
+    3300018: Screen_All
+    3300020: stairs
+    4300000: NO_02_screen
+    4300002: Screen_All
+    4300004: roof_asset
+    4300006: Chair_B_M
+    4300008: Out_Wall
+    4300010: IN_Wall
+    4300012: Basic_stairs
+    4300014: stairs
+    4300016: Chair_H
+    4300018: Chair_F
+    4300020: eye
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
