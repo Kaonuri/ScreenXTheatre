@@ -79,3 +79,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Video
+*.mp4
+*.ogv
+*.ogg
