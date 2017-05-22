@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using UnityEngine;
 using UnityEngine.Video;
 
@@ -123,7 +124,14 @@ public class ScreenXMoviePlayer : MonoBehaviour
 
     private void LoadMovie(ScreenXPlaylist.Item item)
     {
-        VideoPlayer.url = item.url;
+        if (item.isStreamingAssets)
+        {
+            VideoPlayer.url = Application.streamingAssetsPath + "/" + item.url;
+        }
+        else
+        {
+            VideoPlayer.url = item.url;
+        }
         VideoPlayer.Prepare();
     }
 }

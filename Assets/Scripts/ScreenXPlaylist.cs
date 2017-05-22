@@ -7,6 +7,7 @@ public class ScreenXPlaylist : MonoBehaviour
     {
         public string url;
         public bool isScreenX;
+        public bool isStreamingAssets;
     }
 
     public Item[] items;
