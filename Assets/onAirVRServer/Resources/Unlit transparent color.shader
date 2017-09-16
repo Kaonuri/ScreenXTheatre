@@ -10,7 +10,7 @@
         Tags { "RenderType" = "Transparent" "Queue"="Transparent" "IgnoreProjector"="True"}
         LOD 100
         Fog { Mode Off }
-        ZWrite Off
+        Zwrite Off
         Blend SrcAlpha OneMinusSrcAlpha
         Color [_Color]
 

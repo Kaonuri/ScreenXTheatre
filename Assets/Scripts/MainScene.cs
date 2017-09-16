@@ -12,15 +12,6 @@ public class MainScene : MonoBehaviour
 
 	private void Update()
     {
-        if (cameraRig.isBoundToClient)
-        {
-            if (AirVRInput.GetButton(cameraRig, AirVRInput.Gamepad.Button.Back))
-            {
-
-            }
-        }
-
-
 //		if (OVRUIPlatformMenu.menu.quitOnBackClick == _moviePlayer.isPlaying) {
 //			OVRUIPlatformMenu.menu.quitOnBackClick = !_moviePlayer.isPlaying;
 //		}

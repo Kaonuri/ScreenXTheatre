@@ -49,7 +49,7 @@ public class ScreenXMoviePlayer : MonoBehaviour
 
     private void Update()
     {
-        if (AirVRInput.GetButtonDown(cameraRig, AirVRInput.Touchpad.Button.Touch) || Input.GetKeyDown(KeyCode.Space))
+        if (AirVRInput.GetDown(cameraRig, AirVRInput.Touchpad.Button.Touch) || Input.GetKeyDown(KeyCode.Space))
         {
             if (_stateMachine.CurrentState == ScreenXStateMachine.State.Ready)
             {
@@ -61,7 +61,7 @@ public class ScreenXMoviePlayer : MonoBehaviour
             }
         }
 
-        else if (AirVRInput.GetButtonDown(cameraRig, AirVRInput.Touchpad.Button.BackButton) || Input.GetKeyDown(KeyCode.Escape))
+        else if (AirVRInput.GetDown(cameraRig, AirVRInput.Touchpad.Button.Back) || Input.GetKeyDown(KeyCode.Escape))
         {
             if (_stateMachine.CurrentState == ScreenXStateMachine.State.Playing)
             {

@@ -47,7 +47,7 @@ public class SceneManager
         AsyncOperation async = Application.LoadLevelAsync(sceneName);
         async.allowSceneActivation = false;
 
-        while (async.progress < 0.9f || AirVRCameraFade.anyCameraIsFading)
+        while (async.progress < 0.9f)
         {
             yield return 0;
         }
